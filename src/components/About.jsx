@@ -7,7 +7,7 @@ const About = () => {
     <div className="border-b boder-neutral-900 pb-4">
       <h2 className="my-20 text-center text-4xl">
         A propos
-        <span className="text-neutral-500"> De moi</span>
+        <span className="text-neutral-500"> de moi</span>
       </h2>
       <div className="flex flex-wrap">
         <div className="w-full lg:w-1/2 lg:p-8">
