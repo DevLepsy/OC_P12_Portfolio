@@ -9,7 +9,7 @@ Collaboration et travail d'équipe: Capacité à travailler efficacement en équ
 
 export const ABOUT_TEXT = `J'ai suivi le parcours d'OpenClassrooms pour augmenter mon champ de compétences en informatique. J'ai appris à coder en HTML, CSS, JavaScript, React, Tailwind et bien d'autres technologies.
 
-J'ai aussi eu un parcours en système et réseau informatique. J'ai travaillé en tant que technicien informatique pour une entreprise de services informatiques. Dans ce parcours, j'ai appris à gérer des serveurs, des réseaux, des postes de travail et des périphériques informatiques`;
+J'ai aussi eu un parcours en système et réseau informatique. J'ai travaillé en tant que technicien informatique pour une entreprise de services informatiques. Dans ce parcours, j'ai appris à gérer des serveurs, des réseaux, des postes de travail et des périphériques informatiques.`;
 
 export const EXPERIENCES = [
   {
